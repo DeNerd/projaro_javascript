@@ -1,0 +1,23 @@
+h1 {
+    color: cyan;
+    border: 5px solid red;
+}
+
+li {
+    size: 20px;
+    color: #FFD700;
+}
+
+body {
+    background: rgb(220, 45, 90);
+}
+
+/*body {
+    background: url(nature1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/
+
+div {
+    background: rgb()
+}
